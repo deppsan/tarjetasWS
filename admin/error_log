@@ -1,0 +1,61 @@
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  Missing argument 1 for usuarios::__construct(), called in /home/exacomcom/public_html/webservice/admin/index.php on line 31 and defined in /home/exacomcom/public_html/webservice/admin/include/class.php on line 13
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 18
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/exacomcom/public_html/webservice/admin/include/class.php on line 18
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/admin/include/class.php on line 19
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 27
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/exacomcom/public_html/webservice/admin/include/class.php on line 27
+[26-Sep-2016 15:36:53 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/admin/include/class.php on line 28
+[26-Sep-2016 15:37:22 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 15
+[26-Sep-2016 15:37:22 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/exacomcom/public_html/webservice/admin/include/class.php on line 15
+[26-Sep-2016 15:37:22 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/admin/include/class.php on line 16
+[26-Sep-2016 15:46:14 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 15
+[26-Sep-2016 15:46:14 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/exacomcom/public_html/webservice/admin/include/class.php on line 15
+[26-Sep-2016 15:46:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/admin/include/class.php on line 16
+[26-Sep-2016 17:20:50 America/Chicago] PHP Catchable fatal error:  Object of class usuarios could not be converted to string in /home/exacomcom/public_html/webservice/admin/include/class.php on line 43
+[26-Sep-2016 17:20:53 America/Chicago] PHP Catchable fatal error:  Object of class usuarios could not be converted to string in /home/exacomcom/public_html/webservice/admin/include/class.php on line 43
+[27-Sep-2016 11:02:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 64
+[27-Sep-2016 11:02:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 64
+[27-Sep-2016 11:03:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 64
+[27-Sep-2016 11:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 64
+[27-Sep-2016 13:33:51 America/Chicago] PHP Fatal error:  Call to a member function show_data_user() on a non-object in /home/exacomcom/public_html/webservice/admin/data.php on line 39
+[27-Sep-2016 15:13:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 78
+[27-Sep-2016 17:19:43 America/Chicago] PHP Fatal error:  Call to undefined method usuarios::movimientos() in /home/exacomcom/public_html/webservice/admin/movimientos.php on line 58
+[27-Sep-2016 17:19:54 America/Chicago] PHP Fatal error:  Call to undefined method usuarios::movimientos() in /home/exacomcom/public_html/webservice/admin/movimientos.php on line 58
+[30-Sep-2016 12:20:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'trow_1' (T_STRING), expecting ',' or ';' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 122
+[03-Oct-2016 17:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 251
+[04-Oct-2016 10:31:43 America/Chicago] PHP Fatal error:  Class 'usuarios' not found in /home/exacomcom/public_html/webservice/admin/data.php on line 5
+[04-Oct-2016 16:35:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 207
+[04-Oct-2016 16:46:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 184
+[04-Oct-2016 16:46:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 184
+[07-Oct-2016 12:34:32 America/Chicago] PHP Fatal error:  Call to undefined function get_groups() in /home/exacomcom/public_html/webservice/admin/include/class.php on line 56
+[07-Oct-2016 12:35:01 America/Chicago] PHP Fatal error:  Call to undefined function get_groups() in /home/exacomcom/public_html/webservice/admin/include/class.php on line 76
+[07-Oct-2016 12:35:04 America/Chicago] PHP Fatal error:  Call to undefined function get_groups() in /home/exacomcom/public_html/webservice/admin/include/class.php on line 76
+[07-Oct-2016 12:35:28 America/Chicago] PHP Fatal error:  Call to undefined function get_groups() in /home/exacomcom/public_html/webservice/admin/include/class.php on line 76
+[07-Oct-2016 12:35:31 America/Chicago] PHP Fatal error:  Call to undefined function get_groups() in /home/exacomcom/public_html/webservice/admin/include/class.php on line 76
+[07-Oct-2016 12:50:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:51:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:52:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:52:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:52:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:53:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:53:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:53:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:53:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:53:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:53:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:55:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:55:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 12:55:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 13:21:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 13:21:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 13:21:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 13:21:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 13:22:33 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 13:24:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/exacomcom/public_html/webservice/admin/include/class.php on line 47
+[07-Oct-2016 15:45:14 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/home_group.php on line 2
+[07-Oct-2016 15:45:14 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/home_group.php on line 2
+[07-Oct-2016 15:45:14 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/home_group.php on line 2
+[07-Oct-2016 15:45:14 America/Chicago] PHP Warning:  include(class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/home_group.php on line 3
+[07-Oct-2016 15:45:14 America/Chicago] PHP Warning:  include(class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/home_group.php on line 3
+[07-Oct-2016 15:45:14 America/Chicago] PHP Warning:  include(): Failed opening 'class.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/home_group.php on line 3
+[07-Oct-2016 15:45:14 America/Chicago] PHP Fatal error:  Class 'usuarios' not found in /home/exacomcom/public_html/webservice/admin/home_group.php on line 5

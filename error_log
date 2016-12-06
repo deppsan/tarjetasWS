@@ -1,0 +1,441 @@
+[18-Aug-2016 16:34:05 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:34:10 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:35:21 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:35:32 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:43:41 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:53:37 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:53:43 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 16:56:35 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 17:18:11 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_login_one.php on line 21
+[18-Aug-2016 17:44:12 America/Chicago] PHP Fatal error:  Call to undefined function get_random_word() in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[18-Aug-2016 17:44:26 America/Chicago] PHP Warning:  mt_srand() expects parameter 1 to be long, string given in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[18-Aug-2016 17:44:51 America/Chicago] PHP Warning:  mt_srand() expects at most 1 parameter, 2 given in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[18-Aug-2016 17:45:06 America/Chicago] PHP Warning:  mt_srand() expects at most 1 parameter, 2 given in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[18-Aug-2016 17:46:20 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[18-Aug-2016 17:46:20 America/Chicago] PHP Warning:  md5() expects at most 2 parameters, 3 given in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[18-Aug-2016 17:46:46 America/Chicago] PHP Warning:  md5() expects at most 2 parameters, 3 given in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 12:47:37 America/Chicago] PHP Fatal error:  Function name must be a string in /home/exacomcom/public_html/webservice/f_login_one.php on line 19
+[19-Aug-2016 15:16:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/exacomcom/public_html/webservice/f_login_one.php on line 20
+[19-Aug-2016 15:18:38 America/Chicago] PHP Fatal error:  Call to undefined function set_token() in /home/exacomcom/public_html/webservice/f_login_one.php on line 44
+[19-Aug-2016 15:42:52 America/Chicago] PHP Fatal error:  Call to undefined function set_token() in /home/exacomcom/public_html/webservice/f_login_one.php on line 44
+[19-Aug-2016 15:42:55 America/Chicago] PHP Fatal error:  Call to undefined function set_token() in /home/exacomcom/public_html/webservice/f_login_one.php on line 44
+[19-Aug-2016 15:53:18 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'exacomcom'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/f_login_one.php on line 11
+[19-Aug-2016 15:53:45 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'exacomcom'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/f_login_one.php on line 14
+[19-Aug-2016 15:53:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'exacomcom'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/f_login_one.php on line 14
+[19-Aug-2016 15:58:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'exacomcom'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 15:58:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'exacomcom'@'localhost' (using password: NO) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:41:36 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_one.php on line 10
+[19-Aug-2016 16:42:02 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_one.php on line 10
+[19-Aug-2016 16:43:35 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_one.php on line 10
+[19-Aug-2016 16:45:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:45:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:48:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:48:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:48:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:48:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:48:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_login_one.php on line 17
+[19-Aug-2016 16:57:41 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'Error'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_two.php on line 38
+[19-Aug-2016 16:59:15 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'Error'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_two.php on line 38
+[19-Aug-2016 16:59:17 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'Error'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_two.php on line 38
+[19-Aug-2016 16:59:23 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'Error'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_two.php on line 38
+[19-Aug-2016 16:59:35 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'Error'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_two.php on line 38
+[19-Aug-2016 16:59:56 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'exacomcom'@'localhost' (using password: YES) in /home/exacomcom/public_html/webservice/f_login_two.php on line 38
+[23-Aug-2016 17:24:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/exacomcom/public_html/webservice/f_alerts.php on line 31
+[23-Aug-2016 17:24:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/exacomcom/public_html/webservice/f_alerts.php on line 31
+[23-Aug-2016 17:27:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/exacomcom/public_html/webservice/f_alerts.php on line 31
+[23-Aug-2016 17:27:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/exacomcom/public_html/webservice/f_alerts.php on line 31
+[23-Aug-2016 17:48:51 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/exacomcom/public_html/webservice/F_savealert.php on line 36
+[23-Aug-2016 17:50:14 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/exacomcom/public_html/webservice/F_savealert.php on line 36
+[23-Aug-2016 17:51:17 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/exacomcom/public_html/webservice/F_savealert.php on line 36
+[23-Aug-2016 17:51:20 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/exacomcom/public_html/webservice/F_savealert.php on line 36
+[25-Aug-2016 17:16:26 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/exacomcom/public_html/webservice/f_tarjetas.php on line 7
+[25-Aug-2016 17:17:00 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/exacomcom/public_html/webservice/f_tarjetas.php on line 7
+[25-Aug-2016 17:17:01 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/exacomcom/public_html/webservice/f_tarjetas.php on line 7
+[30-Aug-2016 17:04:23 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:04:55 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:05:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:06:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:06:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:07:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:07:40 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:08:04 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[30-Aug-2016 17:08:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/exacomcom/public_html/webservice/f_transactions.php on line 21
+[01-Sep-2016 13:37:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[01-Sep-2016 16:40:47 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[01-Sep-2016 16:41:00 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[01-Sep-2016 17:05:23 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[01-Sep-2016 17:08:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[01-Sep-2016 17:08:42 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[01-Sep-2016 17:08:44 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_alerts.php on line 19
+[02-Sep-2016 11:26:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/exacomcom/public_html/webservice/f_alerts_numbers.php on line 36
+[02-Sep-2016 15:37:09 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_alerts_saver.php on line 10
+[02-Sep-2016 15:37:47 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_alerts_saver.php on line 10
+[02-Sep-2016 15:44:13 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_alerts_saver.php on line 10
+[02-Sep-2016 15:52:15 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_alerts_saver.php on line 10
+[02-Sep-2016 16:13:19 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_alerts_saver.php on line 10
+[02-Sep-2016 16:14:18 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/exacomcom/public_html/webservice/f_alerts_saver.php on line 10
+[02-Sep-2016 17:07:23 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/exacomcom/public_html/webservice/f_alerts_checker.php on line 19
+[02-Sep-2016 17:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/exacomcom/public_html/webservice/f_alerts_checker.php on line 19
+[06-Sep-2016 16:28:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 40
+[06-Sep-2016 16:28:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:32:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:32:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:32:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:32:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:33:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:34:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:34:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:34:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[06-Sep-2016 16:34:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$arrays' (T_VARIABLE) in /home/exacomcom/public_html/webservice/f_transactions.php on line 42
+[20-Sep-2016 11:31:29 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/exacomcom/public_html/webservice/sucursales.php on line 9
+[20-Sep-2016 11:32:09 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/exacomcom/public_html/webservice/sucursales.php on line 9
+[20-Sep-2016 11:33:13 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/exacomcom/public_html/webservice/sucursales.php on line 5
+[20-Sep-2016 11:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/exacomcom/public_html/webservice/sucursales.php on line 5
+[20-Sep-2016 11:33:37 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/exacomcom/public_html/webservice/sucursales.php on line 5
+[20-Sep-2016 11:33:58 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/exacomcom/public_html/webservice/sucursales.php on line 5
+[21-Sep-2016 11:57:00 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 11:57:00 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 11:57:03 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 11:57:03 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 11:58:00 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 11:58:00 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 12:01:36 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[21-Sep-2016 12:01:36 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/exacomcom/public_html/webservice/sucursales.php on line 23
+[23-Sep-2016 11:53:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/exacomcom/public_html/webservice/f_personalization.php on line 11
+[23-Sep-2016 11:55:08 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/functions.php on line 9
+[23-Sep-2016 11:55:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/functions.php on line 15
+[23-Sep-2016 11:55:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/functions.php on line 15
+[10-Oct-2016 11:49:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/f_menu.php on line 33
+[10-Oct-2016 11:50:55 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu.php on line 15
+[10-Oct-2016 12:15:13 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu.php on line 15
+[10-Oct-2016 12:17:09 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu.php on line 15
+[10-Oct-2016 12:18:19 America/Chicago] PHP Warning:  Missing argument 1 for get_menu(), called in /home/exacomcom/public_html/webservice/f_menu.php on line 46 and defined in /home/exacomcom/public_html/webservice/f_menu.php on line 12
+[12-Oct-2016 13:03:32 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:03:43 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:03:46 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:03:49 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:03:50 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:03:51 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:03:51 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 13:04:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 30
+[12-Oct-2016 13:09:38 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:09:38 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:09:38 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:09:38 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:39 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 64
+[12-Oct-2016 13:10:39 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:39 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:39 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:39 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:40 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 64
+[12-Oct-2016 13:10:40 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:40 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:40 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:40 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:41 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 64
+[12-Oct-2016 13:10:41 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:41 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:41 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:10:41 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:11 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 64
+[12-Oct-2016 13:22:11 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:11 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:11 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:11 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:14 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 64
+[12-Oct-2016 13:22:14 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:14 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:14 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 13:22:14 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 21
+[12-Oct-2016 15:10:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 62
+[12-Oct-2016 15:32:06 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:06 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:06 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:06 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:07 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:07 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:07 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:32:07 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 24
+[12-Oct-2016 15:43:09 America/Chicago] PHP Warning:  Missing argument 1 for available_tabs(), called in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 49 and defined in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 13
+[12-Oct-2016 15:46:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 23
+[12-Oct-2016 15:46:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 23
+[12-Oct-2016 15:46:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 23
+[12-Oct-2016 15:46:57 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 23
+[12-Oct-2016 15:48:48 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 15
+[12-Oct-2016 15:48:48 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:48 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:48 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:48 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:49 America/Chicago] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 15
+[12-Oct-2016 15:48:49 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:49 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:49 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:48:49 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 25
+[12-Oct-2016 15:53:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 27
+[12-Oct-2016 16:55:15 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/exacomcom/public_html/webservice/f_menu_tabs.php on line 17
+[18-Oct-2016 12:26:58 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/f_listas.php on line 2
+[18-Oct-2016 12:26:58 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/f_listas.php on line 2
+[18-Oct-2016 12:26:58 America/Chicago] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/f_listas.php on line 2
+[18-Oct-2016 12:26:58 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/f_listas.php on line 3
+[18-Oct-2016 12:26:58 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/f_listas.php on line 3
+[18-Oct-2016 12:26:58 America/Chicago] PHP Warning:  include(): Failed opening 'include/class.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/f_listas.php on line 3
+[18-Oct-2016 12:26:58 America/Chicago] PHP Fatal error:  Class 'usuarios' not found in /home/exacomcom/public_html/webservice/f_listas.php on line 5
+[31-Oct-2016 18:06:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'group' (T_STRING) in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 23
+[31-Oct-2016 18:06:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'group' (T_STRING) in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 23
+[31-Oct-2016 18:06:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'group' (T_STRING) in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 23
+[31-Oct-2016 18:08:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'GROUP' (T_STRING) in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 24
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:22:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 22
+[31-Oct-2016 18:24:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:24:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:25:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:26:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 27
+[31-Oct-2016 18:27:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:27:19 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 40
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:29:13 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:30:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:30:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:30:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:30:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 59
+[31-Oct-2016 18:31:50 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:50 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:50 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:50 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:53 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:53 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:53 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:53 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:54 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:54 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:54 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:54 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:55 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:55 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:55 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:55 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:57 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:57 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:57 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:31:57 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:14 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:14 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:14 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:14 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:15 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:15 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:15 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:15 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:58 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:59 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:59 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:59 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:32:59 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 47
+[31-Oct-2016 18:33:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:33:40 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:34:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) or '(' in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 18
+[31-Oct-2016 18:34:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 18
+[31-Oct-2016 18:35:42 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:35:42 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:35:42 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:35:42 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:04 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:04 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:04 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:04 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:36:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:51 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:51 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:51 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:36:51 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 55
+[31-Oct-2016 18:37:19 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:19 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:19 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:19 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:22 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:22 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:22 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:22 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:37:24 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:30 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:30 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:30 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:38:30 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:39 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:44 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:44 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:44 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:44 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:46 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:46 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:46 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:46 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:39:49 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:02 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:02 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:02 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:02 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:05 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:05 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:05 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:05 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:06 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:23 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:25 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:25 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:25 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:25 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:26 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:26 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:26 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:26 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48
+[31-Oct-2016 18:40:27 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home/exacomcom/public_html/webservice/f_transactions_chart.php on line 48

@@ -1,0 +1,10 @@
+[26-Oct-2016 12:56:41 America/Chicago] PHP Warning:  require_once(PeopleAPI.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/Api/index.php on line 2
+[26-Oct-2016 12:56:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'PeopleAPI.php' (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/Api/index.php on line 2
+[26-Oct-2016 13:29:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 19
+[26-Oct-2016 13:36:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3
+[26-Oct-2016 13:37:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3
+[26-Oct-2016 13:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3
+[26-Oct-2016 13:38:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3
+[26-Oct-2016 13:39:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3
+[26-Oct-2016 13:39:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3
+[26-Oct-2016 13:39:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/exacomcom/public_html/webservice/Api/index.php on line 3

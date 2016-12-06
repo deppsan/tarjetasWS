@@ -1,0 +1,35 @@
+[27-Sep-2016 13:08:06 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 2
+[27-Sep-2016 13:08:06 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 2
+[27-Sep-2016 13:08:06 America/Chicago] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 2
+[27-Sep-2016 13:08:06 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 3
+[27-Sep-2016 13:08:06 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 3
+[27-Sep-2016 13:08:06 America/Chicago] PHP Warning:  include(): Failed opening 'include/class.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 3
+[27-Sep-2016 13:08:06 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:09:34 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 2
+[27-Sep-2016 13:09:34 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 2
+[27-Sep-2016 13:09:34 America/Chicago] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 2
+[27-Sep-2016 13:09:34 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 3
+[27-Sep-2016 13:09:34 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 3
+[27-Sep-2016 13:09:34 America/Chicago] PHP Warning:  include(): Failed opening 'include/class.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 3
+[27-Sep-2016 13:09:34 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:09:56 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:10:28 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:10:34 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:12:33 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:12:37 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:12:43 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:14:02 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[27-Sep-2016 13:14:07 America/Chicago] PHP Fatal error:  Call to undefined function save_user() in /home/exacomcom/public_html/webservice/admin/include/newuser.php on line 12
+[03-Oct-2016 13:13:09 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 2
+[03-Oct-2016 13:13:09 America/Chicago] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 2
+[03-Oct-2016 13:13:09 America/Chicago] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 2
+[03-Oct-2016 13:13:09 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 3
+[03-Oct-2016 13:13:09 America/Chicago] PHP Warning:  include(include/class.php): failed to open stream: No such file or directory in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 3
+[03-Oct-2016 13:13:09 America/Chicago] PHP Warning:  include(): Failed opening 'include/class.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 3
+[03-Oct-2016 13:13:09 America/Chicago] PHP Fatal error:  Class 'usuarios' not found in /home/exacomcom/public_html/webservice/admin/include/crediline.php on line 5
+[04-Oct-2016 11:50:41 America/Chicago] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/exacomcom/public_html/webservice/admin/include/class.php on line 286
+[04-Oct-2016 11:51:21 America/Chicago] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/exacomcom/public_html/webservice/admin/include/class.php on line 286
+[05-Oct-2016 11:10:14 America/Chicago] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/exacomcom/public_html/webservice/admin/include/addoptions.php on line 6
+[05-Oct-2016 11:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/addoptions.php on line 5
+[05-Oct-2016 11:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/addoptions.php on line 5
+[05-Oct-2016 11:33:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/exacomcom/public_html/webservice/admin/include/addoptions.php on line 5
